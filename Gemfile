@@ -8,10 +8,6 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
-
-gem 'ckeditor', '~> 4.1',
-# ADDED from tutorial
-
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
@@ -26,6 +22,8 @@ gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap-sass', '~> 3.3'
+gem 'ckeditor', '~> 4.1'
+# ADDED from tutorial
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
