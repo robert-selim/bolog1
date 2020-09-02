@@ -9,8 +9,10 @@ require("@rails/activestorage").start()
 require("channels")
 
 require ("bootstrap-sprockets")
+require (ckeditor/init)
 //= require bootstrap-sprockets
-// added frin tutorial, but in a different way so might not work?
+// ADDED from tutorial, but in a different way so might not work?
+//= require ckeditor/init
 
 
 
